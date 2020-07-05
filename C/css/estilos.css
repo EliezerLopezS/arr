@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    font-family: courier, courier new, serif;
+    font-size: 12px;  
+}
+
+form {
+    /* Sólo para centrar el formulario a la página */
+    margin: 0 auto;
+    width: 600px;
+    /* Para ver el borde del formulario */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+.input {
+    /* Posiciona los botones a la misma posición que los campos de texto */
+    padding-left: 200px; /* Mismo tamaño a todos los elementos label */
+}
+
+input {
+    /* Este margen extra representa aproximadamente el mismo espacio que el espacio entre los labels y sus campos de texto */
+    margin-left: .5em;
+}
+
+label {
+    /* Asegura todos los labels con el mismo tamaño y están alineados */
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+}

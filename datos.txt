@@ -1,0 +1,7 @@
+;05/07/2020;03:46:17;eliezer;lopez;ssds;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
+;05/07/2020;04:11:50;eliezer;lopez;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
+1;05/07/2020;04:13:23;;;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
+1;05/07/2020;04:13:41;juan;2324;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
+;05/07/2020;04:14:48;juan;wewe;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
+;05/07/2020;04:16:11;juan;wewe;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
+;05/07/2020;04:23:33;eliezer;fdggdggs;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
