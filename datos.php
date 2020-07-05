@@ -29,12 +29,13 @@
         $leerNumeroFactura = fopen("numerofactura.txt", "rb");
 
         // Variable $factura para leer el contenido de "leerNumeroFactura"
-        
+        $factura = fread($leerNumeroFactura, filesize("numerofactura.txt"));
 
         //Cierra el archivo
         fclose($leerNumeroFactura);
 
-     
+        // Incrementamos el valor leído previamente
+        $factura++;
 
         // Abrimos el archivo otra vez
         $leerNumeroFactura = fopen("numerofactura.txt", "wb");
@@ -79,8 +80,9 @@
     
         // Escribe los datos introducidos separados por ";"
         fwrite($datos, $factura.";".$fecha.";".$hora.";".$nombre.";".$apellidos.";".$domicilio.";".$producto1.";".$cantidad1.";".$totalProducto[0].";".$producto2.";".$cantidad2.";".$totalProducto[1].";".$subtotal.";".$IVA.";".$total."\n");
-
+        
         fclose($datos);
+
         ?>
 </body>
 </html>

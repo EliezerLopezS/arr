@@ -5,3 +5,4 @@
 ;05/07/2020;04:14:48;juan;wewe;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
 ;05/07/2020;04:16:11;juan;wewe;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
 ;05/07/2020;04:23:33;eliezer;fdggdggs;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
+;05/07/2020;04:43:42;perro;perro1;;Producto no seleccionado;0;0;Producto no seleccionado;0;0;0;0;0
